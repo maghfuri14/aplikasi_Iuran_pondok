@@ -1,0 +1,6 @@
+{
+  "name": "SimKas Pondok AL Hidayah Tertek",
+  "description": "Sistem Informasi Manajemen Kas & Iuran Pondok Pesantren Al Hidayah Tertek Pare, Kediri (v9.6 Execution-Ready)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
